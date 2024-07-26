@@ -1,0 +1,1 @@
+Welcome to the Breakout Game project built using the Qt Framework! This repository contains the source code and resources for a classic Breakout game implemented with Qt, a powerful cross-platform application development framework.
